@@ -1,3 +1,5 @@
-# Amazon-Product-Review-Analysis
+# DSA Data Analysis Capstone Project
 First DSA Data Analysis Project
-## Marked
+
+## Project Topic: Amazon Project Review Analysis
+
