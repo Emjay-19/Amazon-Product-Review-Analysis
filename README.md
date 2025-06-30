@@ -17,6 +17,14 @@ The project involved performing various analysis tasks, including:
 - Calculating average discount percentages and ratings by product category.
 - Identifying top-performing products and categories.
 - Analyzing the relationship between ratings and discounts.
+- Visualizing product distribution by price range and rating.
+
+### Data Analysis Dashboard
+
+![image](https://github.com/user-attachments/assets/56492ad9-49bc-4699-aa20-5d875965f0a4)
+
+![image](https://github.com/user-attachments/assets/66672f25-1ddc-4c54-a491-3c1edcc7553e)
+
+![image](https://github.com/user-attachments/assets/57ea44f6-7394-4225-8bcf-76b0045e3188)
 
 
-- Visualizing product distribution by price range and rating
