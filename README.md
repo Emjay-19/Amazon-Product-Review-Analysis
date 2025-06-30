@@ -10,7 +10,7 @@ This project aims to analyze product and review data to identify trends and patt
 The primary source data used is Amazon case study.xlsx downloaded from LMS data profile.
 
 ### Tools Used
-The project utilized Microsoft excel to analyze data and create dashboard. 
+The project utilized Microsoft excel to analyze data by creating pivot tables and dashboard. 
 
 ### Key Data Analysis Tasks
 The project involved performing various analysis tasks, including:
