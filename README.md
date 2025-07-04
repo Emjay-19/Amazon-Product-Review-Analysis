@@ -95,25 +95,31 @@ They typically belong to the Electronics and Books categories.
 ### Recommendations
 
 1. Focus on High-Performing Categories
+
 Prioritize marketing and inventory for Electronics, Home & Kitchen, and Computers & Accessories, which show high engagement and revenue potential.
 
 2. Revise Discount Strategy
+
 For categories with low ratings despite high discounts, reassess product quality or brand reputation.
 Avoid excessive discounting unless strategically justified (e.g., end-of-life products).
 
 3. Improve Visibility of Low-Review Products
+
 Invest in promoting and incentivizing reviews for products with <1,000 reviews.
 Use strategies like email follow-ups, discounts for feedback, and bundling.
 
 4. Target Pricing Sweet Spots
+
 Focus product offerings in the 0-5000 range, which has the highest product density.
 Use psychological pricing (e.g. 5999) to optimize sales in this range.
 
 5. Enhance High Potential Products
+
 Identify products with high ratings but low review counts — these could be rising stars.
 Boost these via marketing campaigns, sponsored listings, and influencer reviews.
 
 6. Use Ratings to Drive Engagement
+
 Promote products with ratings >4.5 as "Top Rated" in listings and ads to increase trust and conversions.
 
 7. Optimize Categories with Low Engagement
