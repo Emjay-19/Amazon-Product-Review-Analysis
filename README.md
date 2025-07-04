@@ -135,4 +135,5 @@ Improve product descriptions, images, and SEO, or consider exiting the category 
 
 ![image](https://github.com/user-attachments/assets/57ea44f6-7394-4225-8bcf-76b0045e3188)
 
+![image](https://github.com/user-attachments/assets/af967f14-7e10-4e63-b8a2-bd92e16cf884)
 
