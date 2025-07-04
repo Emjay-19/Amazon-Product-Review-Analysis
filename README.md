@@ -22,55 +22,68 @@ The project involved performing various analysis tasks, including:
 ### Key Findings
 
 1. Average Discount Percentage by Category
+
 Some categories, such as Home improvement, Health and personal care, Computers & Accessories and Electronics, offer significantly higher average discounts (often exceeding 50%).
 Musical Instruments, Car & Motorbike and Home & Kitchen offer 40-46% average discount.
 Office Products show relatively lower average discounts (<20%).
 
 2. Product Count by Category
+
 Computers & Accessories, Electronics and Home & Kitchen have the highest number of listed products.
 Categories like Office Products, Car & Motorbikes and other categories have fewer products, indicating either low seller interest or specialization.
 
 3. Total Number of Reviews per Category
+
 Electronics and Computers & Accessories generate the highest total review counts, suggesting strong customer engagement.
 Car & Motorbikes and Health & personal care categories have lower review volumes.
 
 4. Top-Rated Products
+
 A few products consistently receive ratings of 4.8 and above, often coupled with high review counts.
 These are often premium or highly-reviewed items in Computer & Accessories.
 
 5. Average Actual Price vs Discounted Price
+
 Categories like Electronics show a large gap between actual and discounted prices, signaling aggressive discounting strategies.
 Office Products, Toys & Games have relatively consistent pricing, with minimal variation.
 
 6. Highest Number of Reviews
+
 The top 5 most-reviewed products all have over 400,000 reviews, typically from Electronics categories.
 
 7. Products with ≥50% Discounts
+
 Over 751 products (51% of total) have discounts of 50% or more.
 This is most prevalent in Computers & Accessories, indicating clearance or promotion strategies.
 
 8. Product Ratings Distribution
+
 Most products cluster around 4.1 to 5.0 ratings.
 Few products are rated below 3.0, suggesting either poor-performing products are removed or heavily optimized.
 
 9. Total Potential Revenue
+
 Electronics and Home & Kitchen top the list for potential revenue based on actual price × review count.
 This aligns with their high price points and high engagement.
 
 10. Price Range Buckets
+
 Majority of products fall in the 0-5000 range.
 High-end products (>50000) are fewer but generate more revenue per unit.
 
 11. Rating vs Discount Relationship
+
 No strong correlation observed; however:
 Moderate discounts (20–40%) tend to have higher average ratings.
 Extremely high discounts (>70%) sometimes correlate with lower ratings—possibly clearance items or low-quality products.
 
 12. Products with <1,000 Reviews
+
 Over 60% of products have fewer than 1,000 reviews.
 This indicates either new products or products with low customer engagement.
 
 13. Categories with Highest Discounts
+
 Electronics, Computers & Accessories and Home and Kitchen categories offer the largest average and maximum discounts.
 
 14. Top 5 Products by Rating × Review Count
